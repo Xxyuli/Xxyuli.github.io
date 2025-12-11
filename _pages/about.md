@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in [Data Science & Artificial Intelligence](https://www.polyu.edu.hk/dsai/) at The Hong Kong Polytechnic University (PolyU), advised by [Prof. Chengqi Zhang](https://www.polyu.edu.hk/dsai/people/academic-staff/zhang-chengqi/) and [Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long).  
-My research lies at the intersection of **spatio-temporal data mining**, **urban intelligence**, and **vision-language-action modeling**. Previously, I received my M.Sc. and B.Eng. degrees in Software Engineering from Shandong University, under the supervision of [Prof. Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/zh_CN/index.htm).
+I am a Ph.D. candidate in [Data Science & Artificial Intelligence](https://www.polyu.edu.hk/dsai/) at The Hong Kong Polytechnic University (PolyU), advised by [Prof. Chengqi Zhang](https://www.polyu.edu.hk/dsai/people/academic-staff/zhang-chengqi/) and [Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long).  My research lies at the intersection of **spatio-temporal data mining**, **urban intelligence**, and **vision-language-action modeling**. Previously, I received my M.Sc. and B.Eng. degrees in Software Engineering from Shandong University, under the supervision of [Prof. Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/zh_CN/index.htm).
 
 
 # 🔥 Recent News
