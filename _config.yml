@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaoyu Li (李晓宇)"
-description              : "Focusing on time series, spatio-temporal prediction. "
+title                    : "LI Xiaoyu (李晓宇)"
+description              : "Focusing on spatio-temporal mining and vision-language-action models. "
 repository               : "Junzhidian/Xxyuli.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaoyu Li (李晓宇)"
+  name             : "LI Xiaoyu (李晓宇)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shandong University"
-  location         : "Jinan"
+  bio              : "The Hong Kong Polytechnic University"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=nHZoEasAAAAJ"
