@@ -17,50 +17,67 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate in the [Department of Data Science & Artificial Intelligence](https://www.polyu.edu.hk/dsai/) at The Hong Kong Polytechnic University (PolyU), jointly supervised by [Prof. Chengqi Zhang](https://www.polyu.edu.hk/dsai/people/academic-staff/zhang-chengqi/) and [Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long). Prior to this, I completed my Master’s degree in the Department of Software at Shandong University under the supervision of [Prof. Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/zh_CN/index.htm), where I also earned my Bachelor’s degree.
+I am a Ph.D. candidate in [Data Science & Artificial Intelligence](https://www.polyu.edu.hk/dsai/) at The Hong Kong Polytechnic University (PolyU), advised by [Prof. Chengqi Zhang](https://www.polyu.edu.hk/dsai/people/academic-staff/zhang-chengqi/) and [Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long).  
+My research lies at the intersection of **spatio-temporal data mining**, **urban intelligence**, and **vision-language-action modeling**. Previously, I received my M.Sc. and B.Eng. degrees in Software Engineering from Shandong University, under the supervision of [Prof. Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/zh_CN/index.htm).
 
-My research focuses on vision-language-action models and spatio-temporal data mining. 
 
+# 🔥 Recent News
 
-# 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper was accepted by IEEE TKDE.
-- *2025.04*: &nbsp;🎉🎉 Two papers were accepted by IJCAI 2025.
-- *2025.04*: &nbsp;🎉🎉 One paper was accepted by IEEE TKDE.
-- *2024.11*: &nbsp;🎉🎉 One paper was accepted by IEEE TKDE.
-- *2024.05*: &nbsp;🎉🎉 One paper was accepted by  Neural Computing & Applications.
-- *2024.01*: &nbsp;🎉🎉 One paper was accepted by Artificial Intelligence. 
+- **May 2025**: One paper accepted to IEEE TKDE  
+- **Apr 2025**: Two papers accepted to IJCAI 2025 
+- **Apr 2025**: One paper accepted to IEEE TKDE  
+- **Nov 2024**: One paper accepted to IEEE TKDE  
+- **May 2024**: One paper accepted to Neural Computing and Applications
+- **Jan 2024**: One paper accepted to Artificial Intelligence
 
 # 📝 Publications 
 
-Spatio-Temporal Multivariate Probabilistic Modeling for Traffic Prediction 
-Yang An, Zhibin Li, **Xiaoyu Li**, Wei Liu, Xinghao Yang, Haoliang Sun, Meng Chen, Yu Zheng, Yongshun Gong  
-*IEEE Transactions on Knowledge and Data Engineering (TKDE)*  
-[**Paper**](https://ieeexplore.ieee.org/document/10887343)
+- Adaptive Traffic Forecasting on Daily Basis: A Spatio-Temporal Context Learning Approach.  
+  *IEEE TKDE*, 2025.  
+  [Paper](https://ieeexplore.ieee.org/abstract/document/11012680) | [Code](https://github.com/Xxyuli/ASTCL)
 
+- Spatio-temporal Prototype-based Hierarchical Learning for OD Demand Prediction.  
+  *IJCAI 2025*.  
+  [Paper](https://dl.acm.org/doi/abs/10.24963/ijcai.2025/400)
 
-PartialST: Partial Spatial-Temporal learning for Urban Flow Prediction
+- CAN-ST: Clustering Adaptive Normalization for Spatio-temporal OOD Learning.  
+  *IJCAI 2025*.  
+  [Paper](https://www.ijcai.org/proceedings/2025/0394.pdf)
 
-Yong Wang, **Xiaoyu Li**, Xinxin Zhang, Rui Liu, Yongshun Gong
+- Spatio-Temporal Multivariate Probabilistic Modeling for Traffic Prediction.  
+  *IEEE TKDE*, 2025.  
+  [Paper](https://ieeexplore.ieee.org/document/10887343)
 
-[**Paper**](https://link.springer.com/article/10.1007/s00521-024-10888-7) [**Code**](https://github.com/Xxyuli/PartialST)
+- STDA: Spatio-Temporal Deviation Alignment Learning for Cross-city Urban Flow Inference.  
+  *IEEE TKDE*, 2025.  
+  [Paper](https://ieeexplore.ieee.org/abstract/document/10980031)
 
+- DualST: Dual-track Spatio-temporal Learning with Adaptive Normalization.  
+  *Artificial Intelligence*, 2024.  
+  [Paper](https://www.sciencedirect.com/science/article/pii/S0004370224000018) | [Code](https://github.com/Xxyuli/DualST)
 
-Dualtrack Spatio-temporal Learning for Urban Flow Prediction with Adaptive Normalization
-
-**Xiaoyu Li** , Yongshun Gong , Wei Liu , Yilong Yin , Yu Zheng , Liqiang Nie
-
-[**Paper**](https://www.sciencedirect.com/science/article/pii/S0004370224000018) [**Code**](https://github.com/Xxyuli/DualST)
+- PartialST: Partial Spatial-Temporal Learning for Urban Flow Prediction.  
+  *Neural Computing and Applications*, 2024.  
+  [Paper](https://link.springer.com/article/10.1007/s00521-024-10888-7) | [Code](https://github.com/Xxyuli/PartialST)
 
 # 🎖 Honors and Awards
-- *2025.01* Outstanding graduates, Shandong University. 
-- *2024.12* National Scholarship
 
-# 📖 Educations
-- *2025.09 - , Ph.D, The Hong Kong Polytechnic University, Artificial Intelligence
-- *2022.09 - 2025.06*, MSc, Shandong University, Software Engineering 
-- *2018.09 - 2022.06*, Bachelor, Shandong University, Software Engineering 
+- Outstanding Graduate, Shandong University — *Jan 2025*  
+- National Scholarship — *Dec 2024*
+
+# 📖 Education
+
+- **Ph.D. in Artificial Intelligence**  
+  The Hong Kong Polytechnic University — *Sep 2025 – Present*
+
+- **M.Sc. in Software Engineering**  
+  Shandong University — *Sep 2022 – Jun 2025*
+
+- **B.Eng. in Software Engineering**  
+  Shandong University — *Sep 2018 – Jun 2022*
 
 # 💬 Professional Service
-- Reviewer: TKDE, TNNLS, KDD, AAAI
-# 💻 Internships
+
+Reviewer for: IEEE TKDE, IEEE TNNLS, KDD, AAAI
+<!-- # 💻 Internships -->
 
