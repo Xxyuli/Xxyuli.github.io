@@ -21,7 +21,7 @@ I am a Ph.D. candidate in [Data Science & Artificial Intelligence](https://www.p
 
 
 # 🔥 Recent News
-
+- **Dec 2025**: One paper accepted to Neurocomputing 
 - **May 2025**: One paper accepted to IEEE TKDE  
 - **Apr 2025**: Two papers accepted to IJCAI 2025 
 - **Apr 2025**: One paper accepted to IEEE TKDE  
