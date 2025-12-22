@@ -31,6 +31,9 @@ I am a Ph.D. candidate in [Data Science & Artificial Intelligence](https://www.p
 
 # 📝 Publications 
 
+- STADNN: Spatio-temporal adaptive decomposition neural network for traffic prediction.
+  *Neurocomputing*, 2025. [Paper](https://doi.org/10.1016/j.neucom.2025.132486)
+
 - Adaptive Traffic Forecasting on Daily Basis: A Spatio-Temporal Context Learning Approach.  
   *IEEE TKDE*, 2025.  [Paper](https://ieeexplore.ieee.org/abstract/document/11012680) | [Code](https://github.com/Xxyuli/ASTCL)
 
