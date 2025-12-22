@@ -30,8 +30,7 @@ I am a Ph.D. candidate in [Data Science & Artificial Intelligence](https://www.p
 - **Jan 2024**: One paper accepted to Artificial Intelligence
 
 # 📝 Publications 
-
-- STADNN: Spatio-temporal adaptive decomposition neural network for traffic prediction.
+- STADNN: Spatio-temporal adaptive decomposition neural network for traffic prediction.  
   *Neurocomputing*, 2025. [Paper](https://doi.org/10.1016/j.neucom.2025.132486)
 
 - Adaptive Traffic Forecasting on Daily Basis: A Spatio-Temporal Context Learning Approach.  
